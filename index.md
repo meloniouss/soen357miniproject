@@ -139,9 +139,12 @@ These screens provide a high-level overview of the user’s health status. The M
 
 Following the "Swiss Cheese" model, the notification system escalates based on user response. The lock-screen notification provides a non-intrusive nudge, while the full-screen notification acts as a persistent alarm for unlogged, missed doses.
 
-| Lock-screen notification  | Full-screen notification | Medication taken | Medication skipped |
-|:---:|:---:|:---:|:---:|
-| ![Lock](./images/lock.png) | ![Notif](./images/notif.png) | ![Taken](./images/Taken.png) | ![Skipped](./images/skipped.png) |
+| Lock-screen notification  | Full-screen notification | Medication taken |
+|:---:|:---:|:---:|
+| ![Lock](./images/lock.png) | ![Notif](./images/notif.png) | ![Taken](./images/Taken.png) |
+
+**Medication skipped**
+ ![Skipped](./images/skipped.png) |
 
 ### Automated Onboarding (OCR)
 
@@ -183,9 +186,12 @@ The following wireframes represent a more refined version of the sketches shown 
 
 The three-tab system was chosen to keep the interface shallow. By keeping Medications, Progress, and Clinical Contact only one tap away, we reduce the navigation fatigue often found in portal apps like MyChart. This makes navigation for older users less familiar with technology (like Arthur) far simpler.
 
-| Medication tab | Progress tab | Doctor tab |
-|:---:|:---:|:---:|
-| ![Med](./images/image.png) | ![Progress](./images/med_prog.png) | ![Doc](./images/med_doc.png) |
+| Medication tab | Progress tab |
+|:---:|:---:|
+| ![Med](./images/image.png) | ![Progress](./images/med_prog.png) |
+
+**Doctor tab**
+![Doc](./images/med_doc.png) |
 
 ### Taking and or skipping doses
 
