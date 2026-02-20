@@ -101,7 +101,7 @@ Elena’s journey showed a drop-off in confidence when confronted with ever-incr
 
 # 4. Wireframing and prototype design
 
-A user flow chart was produced to showcase how the application should function from the user's perspective to simplify the design process.
+Three user flow charts were produced to showcase how the application should function from the user's perspective to simplify the design process.
 
 ## 4.1 User flow chart
 
@@ -113,7 +113,7 @@ This flow maps the logic for the notification problem identified in our research
 
 ### Flow 2: Medication onboarding (automated)
 
-To minimize entry errors, especially for users with high cognitive loads, this flow utilizes optical character recognition using the user's phone camera. By scanning the pharmacy label, the application parses the medication name, dosage, and frequency directly into the database. It allows users like Arthur (senior) to easily add medications. This removes the manual data-entry step where most "Identification Errors" occur.
+To minimize entry errors, especially for users with high cognitive loads, this flow utilizes optical character recognition using the user's phone camera. By scanning the pharmacy label, the application parses the medication name, dosage, and frequency directly into the database. It allows users like Arthur (senior) to easily add medications. This removes the manual data-entry step where most identification errors occur.
 
 ![flow2](./images/flow2.png)
 
