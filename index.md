@@ -131,20 +131,32 @@ The following sketches represent the core interface of HealthPro. The layout pri
 
 These screens provide a high-level overview of the user’s health status. The Medication tab acts as the primary landing page, while the Progress and Doctor tabs house the data and communication tools identified in the research phase respectively.
 
-| Medication tab | Progress tab | Doctor tab |
-|:---:|:---:|:---:|
-| ![Med](./images/Med.png) | ![Scan](./images/Progress.png) | ![Doc](./images/doc.png) |
+<div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <strong>Medication Tab</strong><br>
+    <img src="/soen357miniproject/images/Med.png" alt="Medication Tab" style="width: 100%;">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <strong>Progress Tab</strong><br>
+    <img src="/soen357miniproject/images/Progress.png" alt="Progress Tab" style="width: 100%;">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <strong>Doctor Tab</strong><br>
+    <img src="/soen357miniproject/images/doc.png" alt="Doctor Tab" style="width: 100%;">
+  </div>
+</div>
 
 ### Tiered notification system
 
 Following the "Swiss Cheese" model, the notification system escalates based on user response. The lock-screen notification provides a non-intrusive nudge, while the full-screen notification acts as a persistent alarm for unlogged, missed doses.
 
-| Lock-screen notification  | Full-screen notification | Medication taken |
-|:---:|:---:|:---:|
-| ![Lock](./images/lock.png) | ![Notif](./images/notif.png) | ![Taken](./images/Taken.png) |
+| Lock-screen notification | Full-screen notification |
+|:---:|:---:|
+| ![Lock](/soen357miniproject/images/lock.png) | ![Notif](/soen357miniproject/images/notif.png) |
 
-**Medication skipped**
- ![Skipped](./images/skipped.png) |
+| Medication taken | Medication skipped |
+|:---:|:---:|
+| ![Taken](./images/Taken.png) | ![Skipped](/soen357miniproject/images/skipped.png) |
 
 ### Automated Onboarding (OCR)
 
