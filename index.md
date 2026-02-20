@@ -130,7 +130,7 @@ This flow represents the data export strategy. It allows users like Elena to bri
 
 ## 4.2 Sketches
 
-The following sketches represent the core interface of HealthPro. The layout prioritizes a minimalist user interface to ensure that users can log actions with a single tap, reducing the cognitive effort required for daily adherence.
+The following sketches represent the core interface of HealthPro. The layout prioritizes a minimalist user interface to ensure that users can log actions with a single tap, reducing the cognitive effort required for daily adherence.  These initial low-fidelity sketches were used to rapidly ideate on spatial hierarchy and core interactions, prioritizing logical flow over visual polish before moving into Figma.
 
 ### Main screens
 
