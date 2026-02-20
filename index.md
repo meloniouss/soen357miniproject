@@ -4,21 +4,14 @@ title: HealthPro Case Study
 ---
 
 <div style="text-align: center; padding-top: 50px;">
-
-## Concordia University
-
-## SOEN-357: User Interface Design
-
-<br>
-
-## HealthPro: A Case Study
-
-<br>
-<br>
-
-Andrei Jianu (40275653)  
-February 20, 2026
-
+  <h2>Concordia University</h2>
+  <h2>SOEN-357: User Interface Design</h2>
+  <br>
+  <h1>HealthPro: A Case Study</h1>
+  <br>
+  <br>
+  <p>Andrei Jianu (40275653)</p>
+  <p>February 20, 2026</p>
 </div>
 
 <div style="page-break-after: always;"></div>
