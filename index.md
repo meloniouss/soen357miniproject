@@ -187,12 +187,9 @@ The following wireframes represent a more refined version of the sketches shown 
 
 The three-tab system was chosen to keep the interface shallow. By keeping Medications, Progress, and Clinical Contact only one tap away, we reduce the navigation fatigue often found in portal apps like MyChart. This makes navigation for older users less familiar with technology (like Arthur) far simpler.
 
-| Medication tab | Progress tab |
-|:---:|:---:|
-| ![Med](./images/image.png) | ![Progress](./images/med_prog.png) |
-
-**Doctor tab**
-![Doc](./images/med_doc.png) |
+| Medication tab | Progress tab | Doctor tab |
+|:---:|:---:|:---:|
+| ![Med](./images/image.png) | ![Progress](./images/med_prog.png) | ![Doc](./images/med_doc.png) |
 
 ### Taking and or skipping doses
 
