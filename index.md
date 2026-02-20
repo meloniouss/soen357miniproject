@@ -131,20 +131,9 @@ The following sketches represent the core interface of HealthPro. The layout pri
 
 These screens provide a high-level overview of the user’s health status. The Medication tab acts as the primary landing page, while the Progress and Doctor tabs house the data and communication tools identified in the research phase respectively.
 
-<div style="display: flex; justify-content: space-between; gap: 10px; margin-bottom: 20px;">
-  <div style="flex: 1; text-align: center;">
-    <strong>Medication Tab</strong><br>
-    <img src="/soen357miniproject/images/Med.png" alt="Medication Tab" style="width: 100%;">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <strong>Progress Tab</strong><br>
-    <img src="/soen357miniproject/images/Progress.png" alt="Progress Tab" style="width: 100%;">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <strong>Doctor Tab</strong><br>
-    <img src="/soen357miniproject/images/doc.png" alt="Doctor Tab" style="width: 100%;">
-  </div>
-</div>
+| Medication tab | Progress tab | Doctor tab |
+|:---:|:---:|:---:|
+| ![Med](./images/Med.png) | ![Scan](./images/progress.png) | ![Doc](./images/doc.png) |
 
 ### Tiered notification system
 
@@ -156,7 +145,7 @@ Following the "Swiss Cheese" model, the notification system escalates based on u
 
 | Medication taken | Medication skipped |
 |:---:|:---:|
-| ![Taken](./images/Taken.png) | ![Skipped](/soen357miniproject/images/skipped.png) |
+| ![Taken](./images/taken.png) | ![Skipped](/soen357miniproject/images/skipped.png) |
 
 ### Automated Onboarding (OCR)
 
