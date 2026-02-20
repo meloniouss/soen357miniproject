@@ -1,23 +1,27 @@
-<div style="line-height: 1.6; max-width: 800px; margin: auto;">
+---
+layout: default
+title: HealthPro Case Study
+---
+
+<div style="text-align: center; padding-top: 50px;">
+
+## Concordia University
+
+## SOEN-357: User Interface Design
+
+<br>
+
+## HealthPro: A Case Study
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div align="center">
-  <h2>Concordia University</h2>
-  <strong>SOEN-357: User Interface Design</strong><br>
-  <h3 style="margin-bottom: 0;">HealthPro, a case study</h1>
-  <strong>Andrei Jianu (40275653)</strong><br>
-  <em>February 20, 2026</em>
+
+Andrei Jianu (40275653)  
+February 20, 2026
+
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -30,11 +34,7 @@
 5. [Usability Testing Plan](#5-usability-testing-plan)
 6. [Reflection](#6-reflection)
 
-
-
 # 1. Introduction
-
-
 
 In the current healthcare landscape, a significant barrier to effective treatment is the lack of patient adherence to medication regimens. While traditional tools like physical pill organizers and basic calendar reminders exist, they often fail to provide the redundancy necessary for high-stakes medical management. HealthPro is designed as a modern intervention within the "Swiss Cheese" model of error prevention, acting as a comprehensive health ecosystem that bridges the gap between the physician's office and the patient's home. By integrating automated medication scanning to reduce cognitive load, quick logging for high-efficiency users, and high-priority escalated alerts for more distracted individuals, HealthPro provides a multi-layered safety net. This application aims to minimize the risk of missed doses and streamline the point of contact between patients and their healthcare providers, ensuring more reliable treatment outcomes across diverse demographics.
 
@@ -161,10 +161,10 @@ To solve the "entry error" problem, the onboarding flow uses a camera interface 
 ## 4.3 Storyboards
 
 The first story is about Arthur, a confused senior who simply wants to add his new prescription to HealthPro after getting home from the pharmacy. He has poor eyesight and the text on the pill bottle is too small to read.
+
 | Trigger | Resolution | Relief|
 |:---:|:---:|:---:|
 |![ST11](./images/st11.png) Arthur has a hard time reading the pill label|![ST12](./images/st12.png) Arthur scans the label using HealthPro|![ST13](./images/st13.png) The medication is added automatically|
-
 
 <br>
 The second story is about Sarah, a professional with ADHD, stuck in a Zoom meeting. She knows it is soon time to take her medication, but does not know exactly when, and does not want to disrupt her meeting.
@@ -188,8 +188,7 @@ The following wireframes represent a more refined version of the sketches shown 
 
 ### Main tabs
 
-The three-tab system was chosen to keep the interface shallow. By keeping Medications, Progress, and Clinical Contact only one tap away, we reduce the "navigation fatigue" often found in portal apps like MyChart. This makes navigation for older users less familiar with technology (like Arthur) far simpler.
-
+The three-tab system was chosen to keep the interface shallow. By keeping Medications, Progress, and Clinical Contact only one tap away, we reduce the navigation fatigue often found in portal apps like MyChart. This makes navigation for older users less familiar with technology (like Arthur) far simpler.
 
 | Medication tab | Progress tab | Doctor tab |
 |:---:|:---:|:---:|
@@ -200,7 +199,6 @@ The three-tab system was chosen to keep the interface shallow. By keeping Medica
 The wireframe emphasizes large, distinct hit-boxes for logging actions, such as why a dose was skipped. This design is specifically tailored for users like Sarah, who need to log data quickly, and Arthur, who may have reduced dexterity. It also allows for users to specify why they skipped their dose (already taken, side-effects, etc) or to log any side-effects encountered when taking the medication.
 
 ![alt text](./images/image3.png)
-
 
 ### Tiered notification system
 
@@ -252,5 +250,3 @@ The UX design process served as a critical tool for identifying user needs and i
 The primary challenge encountered during the design process was balancing fidelity with clarity. The initial stage involved rapid, low-fidelity sketching and storyboarding to map out core user journeys. While these early drawings focused on raw logic rather than aesthetics, they provided the necessary blueprint for the transition into digital design. The main difficulty lay in translating those basic ideas into low-fi wireframes. During this process, it became clear that a "trendy" UI would be less effective than a high-contrast, simple interface, especially for the wireframes. Non-essential elements were removed to keep the screens easy to read, which resulted in a more accessible final design for our personas.
 
 Furthermore, learning Figma while designing the logic of the application presented a steep learning curve, requiring significant trial and error. This obstacle was managed by adopting a modular design approach; creating consistent buttons and navigation components early in the process ensured the final clickable prototype functioned as a unified application rather than a collection of screens.
-
-</div>
