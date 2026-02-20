@@ -184,7 +184,7 @@ The third story is about Elena, a scientist newly diagnosed with Lupus. She is w
 
 ## 4.4 Wireframes
 
-The following wireframes represent a more refined version of the sketches shown in section 4.2. They were made using Figma.
+The following wireframes represent a more refined version of the sketches shown in section 4.2. They were made using Figma. The main differences are button placements and colours, as the original sketches were made quickly in order to fail fast. Once sketches were drawn, the button placement for some of the features seemed less than ideal. For example, 'Add new medication' was moved to be above the timer, to facilitate users such as Arthur who can not see well.
 
 > For a more detailed view, please see [the Figma page](https://www.figma.com/design/4Tzmq4J5wWP4CLoe9Opatt/%F0%9F%93%B2Wireframes-for-mobile-UI-design--Community-?node-id=977-2)
 
